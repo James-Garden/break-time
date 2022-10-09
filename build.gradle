@@ -25,7 +25,7 @@ tasks.withType(JavaCompile) {
 
 application {
     mainModule = 'uk.jamesgarden.breaktime'
-    mainClass = 'uk.jamesgarden.breaktime.HelloApplication'
+    mainClass = 'uk.jamesgarden.breaktime.BreakTimeLauncher'
 }
 
 javafx {
