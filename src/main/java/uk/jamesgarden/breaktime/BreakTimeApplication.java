@@ -1,15 +1,11 @@
-package uk.epsilondynamics.breaktime;
+package uk.jamesgarden.breaktime;
 
-import javafx.animation.KeyFrame;
-import javafx.animation.KeyValue;
-import javafx.animation.Timeline;
 import javafx.application.Application;
 import javafx.fxml.FXMLLoader;
 import javafx.scene.Scene;
 import javafx.stage.Stage;
 
 import java.io.IOException;
-import javafx.util.Duration;
 
 public class BreakTimeApplication extends Application {
   @Override

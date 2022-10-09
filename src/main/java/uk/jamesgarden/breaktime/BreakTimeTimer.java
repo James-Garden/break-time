@@ -1,4 +1,4 @@
-package uk.epsilondynamics.breaktime;
+package uk.jamesgarden.breaktime;
 
 import javafx.animation.KeyFrame;
 import javafx.animation.KeyValue;

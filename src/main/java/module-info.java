@@ -1,8 +1,8 @@
-module uk.epsilondynamics.breaktime {
+module uk.jamesgarden.breaktime {
   requires javafx.controls;
   requires javafx.fxml;
 
 
-  opens uk.epsilondynamics.breaktime to javafx.fxml;
-  exports uk.epsilondynamics.breaktime;
+  opens uk.jamesgarden.breaktime to javafx.fxml;
+  exports uk.jamesgarden.breaktime;
 }

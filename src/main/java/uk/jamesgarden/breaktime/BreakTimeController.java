@@ -1,4 +1,4 @@
-package uk.epsilondynamics.breaktime;
+package uk.jamesgarden.breaktime;
 
 import java.util.Objects;
 import javafx.animation.Timeline;

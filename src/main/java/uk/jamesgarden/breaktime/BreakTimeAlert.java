@@ -1,4 +1,4 @@
-package uk.epsilondynamics.breaktime;
+package uk.jamesgarden.breaktime;
 
 import javafx.scene.control.Alert;
 

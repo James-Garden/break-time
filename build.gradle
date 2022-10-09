@@ -5,7 +5,7 @@ plugins {
     id 'org.beryx.jlink' version '2.24.1'
 }
 
-group 'uk.epsilondynamics'
+group 'uk.jamesgarden'
 version '1.0-SNAPSHOT'
 
 repositories {
@@ -24,8 +24,8 @@ tasks.withType(JavaCompile) {
 }
 
 application {
-    mainModule = 'uk.epsilondynamics.breaktime'
-    mainClass = 'uk.epsilondynamics.breaktime.HelloApplication'
+    mainModule = 'uk.jamesgarden.breaktime'
+    mainClass = 'uk.jamesgarden.breaktime.HelloApplication'
 }
 
 javafx {
